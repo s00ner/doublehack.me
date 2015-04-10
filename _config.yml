@@ -7,6 +7,11 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://doublehack.me" # the base hostname & protocol for your site
 twitter_username: jeffers0n
 github_username:  s00ner
+linkedin_username: jeffyates
+facebook_username: jeffers0n
+reddit_username: jeffers0n
+lastfm_username: jeffers0n
+steam_username: jeffers00n
 
 # Build settings
 markdown: kramdown
